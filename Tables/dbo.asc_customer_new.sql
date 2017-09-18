@@ -4,7 +4,7 @@ CREATE TABLE [dbo].[asc_customer_new]
 [CODE] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL,
 [NAME] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 [ADDRESS] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
-[CITY] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+[NEWCITY] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 [STATE] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 [ZIPCODE] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 [TYPE] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
